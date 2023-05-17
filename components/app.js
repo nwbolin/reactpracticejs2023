@@ -1,6 +1,6 @@
 import Banner from "./banner";
 
-const App = () => {
+const Application = () => {
 return <Banner/> 
 };
 
